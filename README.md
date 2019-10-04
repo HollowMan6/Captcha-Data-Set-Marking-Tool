@@ -2,6 +2,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/Captcha-Data-Set-Marking-Tool.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/Captcha-Data-Set-Marking-Tool/alerts/)
+[![Language grade: C#](https://img.shields.io/lgtm/grade/csharp/g/HollowMan6/Captcha-Data-Set-Marking-Tool.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/Captcha-Data-Set-Marking-Tool/context:csharp)
 
 C#编写的验证码AI训练数据集处理工具
 
