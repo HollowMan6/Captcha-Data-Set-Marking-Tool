@@ -17,10 +17,10 @@
 
 C#编写的验证码AI训练数据集处理工具
 
-除了提供工具的源代码外，我还通过 http://jwk.lzu.edu.cn/academic/getCaptcha.do ，改编[兰州大学教务管理信息系统爬虫](https://github.com/HollowMan6/Spider-for-LZU-STU-INFO-System)仓库中的部分代码段，获得了很多的验证码图片。在wrong文件夹中是识别结果错误的验证码图片，在right文件夹中是正确的。你可以试着用工具修正wrong文件夹中的验证码。
+除了提供工具的源代码外，我还通过 http://jwk.lzu.edu.cn/academic/getCaptcha.do ，改编脚本[兰州大学教务管理信息系统爬虫](https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System/blob/master/Spider-for-LZU-STU-INFO-System.py)中的代码段，获得了很多的验证码图片。在wrong文件夹中是识别结果错误的验证码图片，在right文件夹中是正确的。你可以试着用工具修正wrong文件夹中的验证码。
 
 # Captcha Data Set Marking Tool
 
 Programme coded by C# to make dataset for trainning AI Captcha Recognition.  
 
-Aside from providing the code, I also provide a lot of Captchas by http://jwk.lzu.edu.cn/academic/getCaptcha.do and running the changed script in my project [Spider for LZU-STU-INFO System](https://github.com/HollowMan6/Spider-for-LZU-STU-INFO-System). In the wrong Folder are the Captchas with wrong recognition results, and in the right one is right. You can try to correct it with the Tool.
+Aside from providing the code, I also provide a lot of Captchas by http://jwk.lzu.edu.cn/academic/getCaptcha.do and running the changed script in my script [Spider for LZU-STU-INFO System](https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System/blob/master/Spider-for-LZU-STU-INFO-System.py). In the wrong Folder are the Captchas with wrong recognition results, and in the right one is right. You can try to correct it with the Tool.
